@@ -1,0 +1,18 @@
+{
+    "name": "ragboyjr/make-deployment-status",
+    "description": "Simple script for creating a deployment status file",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "MIT",
+    "keywords": [
+       "system",
+       "deployment"
+   ],
+    "authors": [
+        {
+            "name": "RJ Garcia",
+            "email": "rj@bighead.net"
+        }
+    ],
+    "bin": ["bin/deployment-status"]
+}
